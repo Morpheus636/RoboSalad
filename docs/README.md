@@ -1,12 +1,15 @@
 # RoboSalad
-An AI tool for community management.
+An AI tool for Discord Community management.
 
 ## Features
-- AI QOTD generation
+- Question of the Day Generation
 
 ## Technologies
 - Python
 - GPT2
+
+## Roadmap
+- Discord Bot
 
 ## Usage
 <Usage Instructions>
@@ -20,7 +23,8 @@ To ask a question or get support, you can join my [Discord Server](https://disco
 This project is maintained my Morpheus636. Contribution guidelines for all of my projects can be found at https://docs.morpheus636.com/contributing
 
 ## Credits
-
+- Salad for letting me name my AI based on them.
+- Nev for coming up with the name RoboSalad.
 
 ## Copyright Notice
 © Copyright 2022 Josh Levin ([Morpheus636](https://github.com/morpheus636))
