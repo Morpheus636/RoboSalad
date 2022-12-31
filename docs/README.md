@@ -1,4 +1,4 @@
-# Community Manager
+# RoboSalad
 An AI tool for community management.
 
 ## Features
