@@ -12,7 +12,13 @@ An AI tool for Discord Community management.
 - Discord Bot
 
 ## Usage
-<Usage Instructions>
+### Training the Model
+1. [Setup your local environment](https://docs.morpheus636.com/contributing/python)
+2. Update `training/data.json` with your example QOTDs.
+3. Run the following command:
+```bash
+poetry run python training/train.py
+```
 
 ## Contact
 To submit a bug report or feature request, please open a GitHub Issue in this repository. 
