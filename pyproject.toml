@@ -6,7 +6,7 @@ authors = ["Josh Levin <morpheus636@morpheus636.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-aitextgen = "^0.6.0"
+aitextgen = {git = "https://github.com/Morpheus636/aitextgen", branch = "master"}
 
 [tool.poetry.dev-dependencies]
 black = "^22.2.0"
