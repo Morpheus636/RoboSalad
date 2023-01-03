@@ -1,11 +1,12 @@
 [tool.poetry]
-name = "template"
+name = "RoboSalad"
 version = "0.0.1"
 description = ""
 authors = ["Josh Levin <morpheus636@morpheus636.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+aitextgen = {git = "https://github.com/Morpheus636/aitextgen", branch = "master"}
 
 [tool.poetry.dev-dependencies]
 black = "^22.2.0"

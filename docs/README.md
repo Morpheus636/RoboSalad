@@ -1,37 +1,36 @@
-# Project Name
-
-<Description>
+# RoboSalad
+An AI tool for Discord Community management.
 
 ## Features
-- a feature
-- another feature
-- a third feature
+- Question of the Day Generation
 
 ## Technologies
-- language
-- library
-- another library
+- Python
+- GPT2
+
+## Roadmap
+- Discord Bot
 
 ## Usage
-<Usage Instructions>
+### Training the Model
+1. [Setup your local environment](https://docs.morpheus636.com/contributing/python)
+2. Update `training/data.json` with your example QOTDs.
+3. Run the following command:
+```bash
+poetry run python training/train.py
+```
 
 ## Contact
-<Remove this section for unmaintained projects>
 To submit a bug report or feature request, please open a GitHub Issue in this repository. 
 
 To ask a question or get support, you can join my [Discord Server](https://discord.morpheus636.com) or create a Discussions thread within this repository.
 
 ## Contributing
-EITHER:
-
 This project is maintained my Morpheus636. Contribution guidelines for all of my projects can be found at https://docs.morpheus636.com/contributing
-OR:
-
-This project is unmaintained, developed for my personal use and released for the benefit of anyone interested. Issues may not be addressed and pull
-requests will likely be closed without merging.
 
 ## Credits
-
+- Salad for letting me name my AI based on them.
+- Nev for coming up with the name RoboSalad.
 
 ## Copyright Notice
 © Copyright 2022 Josh Levin ([Morpheus636](https://github.com/morpheus636))
